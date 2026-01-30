@@ -2,7 +2,7 @@
 name = "ferris-elf"
 version = "0.1.0"
 description = "A bot to profile Rust code shared over Discord"
-authors = ["proegssilb <proegssilb@gmail.com>"]
+authors = ["ankitson <dev@ankitson.com>", "proegssilb <proegssilb@gmail.com>"]
 license = "Apache2"
 readme = "README.md"
 packages = [
